@@ -7,7 +7,7 @@ A bare-bone starter template for react-app with parcel bundling for small applic
 - :package: [parcel](https://parceljs.org/getting_started.html) - a light-weight bundler with zero config.
 - :comet: [pretty-quick](https://github.com/azz/pretty-quick) - for code formatting and runs as a pre-commit hook.
 - :rainbow: [husky](https://github.com/typicode/husky) - for pre-commit hook.
-- :zap: [babel](https://babeljs.io/docs/en/ - for js compiling.
+- :zap: [babel](https://babeljs.io/docs/en/) - for js compiling.
 - :fire: [eslint](https://eslint.org/docs/user-guide/configuring) - for code linting and accessibility.
 
 ### Instructions
