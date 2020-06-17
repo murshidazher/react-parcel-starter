@@ -1,0 +1,15 @@
+{
+  "name": "react-parcel-starter",
+  "version": "1.0.0",
+  "description": "A bare-bone starter template for react-app with parcel bundling for small applications.",
+  "homepage": "https://github.com/murshidazher/react-parcel-starter",
+  "author": "Murshid Azher",
+  "license": "ISC",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/murshidazher/react-parcel-starter/issues"
+  }
+}
