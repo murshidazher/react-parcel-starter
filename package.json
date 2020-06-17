@@ -7,10 +7,13 @@
   "license": "ISC",
   "main": "src/index.html",
   "scripts": {
+    "start": "npm run dev",
     "dev": "parcel src/index.html",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "coverage": "jest --coverage"
   },
   "husky": {
     "hooks": {
