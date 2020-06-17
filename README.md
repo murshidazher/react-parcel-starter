@@ -28,23 +28,25 @@ Step by Step Instructions:
 ### :open_file_folder: What's inside?
 
 A quick look at the folder structure of this template.
-  
- .
-└──src
-└── **test**
-└───App.test.js
-├───App.js
-├───index.html
-└───styles.css
-├───.babelrc
-├───.editorconfig
-├───.eslintrc.json
-├───.gitignore
-├───.prettierrc
-├───README.md
-├───jsconfig.json
-├───package-lock.json
-└───package.json
+
+```
+    .
+    └──src
+        └── __test__
+            └───App.test.js
+        ├───App.js
+        ├───index.html
+        └───styles.css
+    ├───.babelrc
+    ├───.editorconfig
+    ├───.eslintrc.json
+    ├───.gitignore
+    ├───.prettierrc
+    ├───README.md
+    ├───jsconfig.json
+    ├───package-lock.json
+    └───package.json
+```
 
 ## Contributors
 
